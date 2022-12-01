@@ -1,0 +1,2 @@
+D:\GeekBrains\Python\practice\virus_scan\log.txt: 01.12.2022 17:29:52
+D:\GeekBrains\Python\practice\virus_scan\virus_scan.py: 01.12.2022 17:29:52
